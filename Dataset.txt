@@ -1,0 +1,1 @@
+https://www.kaggle.com/code/beyzanks/waste-classification-with-cnn/notebook
